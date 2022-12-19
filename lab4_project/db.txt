@@ -1,0 +1,8 @@
+{"_id":{"$oid":"639a8db4d1522337336b2de2"},"univ_id":"1000","first_name":"Smritikana","last_name":"Maity","email":"a@gmail.com","age":{"$numberInt":"28"},"course":"CSE"}
+
+
+Post:
+{"univ_id":"1090","first_name":"Smritikana","last_name":"Maity","age":28,"course":"CSE"}
+
+Put:
+{"univ_id":"1090","first_name":"Smritikana","last_name":"Maity","age":28,"course":"CSE"}
